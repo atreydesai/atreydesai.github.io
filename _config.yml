@@ -1,0 +1,9 @@
+# Site settings
+title: Atrey Desai
+author:
+  name: Atrey Desai
+  email: atreydesai@gmail.com
+description: "Research, personal projects, and more!"
+
+# Build settings
+remote_theme: murraco/jekyll-theme-minimal-resume
