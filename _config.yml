@@ -2,17 +2,18 @@
 title: Atrey Desai
 author:
   name: Atrey Desai
-  email: atreydesai@gmail.com
 description: "Research, personal projects, and more!"
-
-# Build settings
 remote_theme: murraco/jekyll-theme-minimal-resume
 
 #theme-settings
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://atreydesai.github.io/" # the base hostname & protocol for your site
 
+#user-settings
 username: Atrey Desai
-user_description: Incoming College Student at [college]
-user_title: Atrey Desai
+user_title: Student Researcher
+user_description: I'm a freshman at [college]. I previously worked in the Reinforcement Learning And Behavior (RLAB) Group under Dr. Michael Littman at Brown University on applying reinforcement learning to complete 2D jobs that resemble complex tasks found in real-world robotics. I also co-authored an extended abstract on Reinforcement Learning As End-User Trigger-Action Programming for AAAI-22 Conference on Artificial Intelligence. Currently, we are collaborating with researchers in the End-User RL Robot Programming group at the University of Chicago.
 email: atreydesai@gmail.com
+instagram_username: atrey_desai
+linkedin_username: atreydesai
+github_username:  atreydesai
