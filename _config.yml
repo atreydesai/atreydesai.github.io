@@ -7,3 +7,12 @@ description: "Research, personal projects, and more!"
 
 # Build settings
 remote_theme: murraco/jekyll-theme-minimal-resume
+
+#theme-settings
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://atreydesai.github.io/" # the base hostname & protocol for your site
+
+username: Atrey Desai
+user_description: Incoming College Student at [college]
+user_title: Atrey Desai
+email: atreydesai@gmail.com
