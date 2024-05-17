@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Undergraduate Student in Computer Science and Linguistics at  <a href='https://umd.edu/'>University of Maryland, College Park</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Emai: adesai10 [at] umd [dot] edu</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there 👋! I'm a second-year undergraduate student majoring in Computer Science and Linguistics with a minor Korean Studies at the University of Maryland. I am fortunate to be advised by [Professor Rachel Rudinger](https://rudinger.github.io/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) lab in [UMIACS](https://www.umiacs.umd.edu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in natural language processing, particularly in commonsense reasoning in LLMs and problems of bias and fairness in NLP.
+
+I am currently working under Professor Kenny Zhu and Sinong Wang at the [Arlington Computational Linguistics Lab (ACL^2)](https://acl-group.github.io/) at the University of Texas at Arlington identifying structural similarities to human language and contextual semantics within animal vocalizations to gain insights about the language of animal species. This work is graciously supported by the [NSF](https://www.nsf.gov/crssprgm/reu/). I previously worked under Professor Michael Littman at the [Reinforcement Learning & Adaptive Behavior (RLAB)](http://bigai.cs.brown.edu/) group at Brown University on applications of reinforcement learning to 2D non-sequential tasks. We published our findings at [AAAI-22 IMLW](https://sites.google.com/view/aaai22-imlw) and [RLDM-22](https://rldm.org/the-5th-multidisciplinary-conference-on-reinforcement-learning-and-decision-making-rldm2022/).
