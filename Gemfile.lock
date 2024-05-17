@@ -179,7 +179,7 @@ GEM
 
 PLATFORMS
   aarch64-linux-gnu
-  ruby
+  ruby 
   x86_64-linux
 
 DEPENDENCIES
