@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Emai: adesai10 [at] umd [dot] edu</p>
+    <p>Email: adesai10 [at] umd [dot] edu</p>
+    <p> CV: <a href='https://drive.google.com/file/d/1CYiSWp-dWIwoW0K_fStZRz9h9GKU49-a/view?usp=sharing'>Click Here</a>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
