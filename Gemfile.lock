@@ -179,8 +179,6 @@ GEM
 
 PLATFORMS
   aarch64-linux-gnu
-  ruby 
-  x86_64-linux
 
 DEPENDENCIES
   classifier-reborn
