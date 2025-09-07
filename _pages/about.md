@@ -17,12 +17,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there 👋! I'm a second-year undergraduate student majoring in Computer Science and Linguistics with a minor Korean Studies at the University of Maryland. I am fortunate to be advised by [Professor Rachel Rudinger](https://rudinger.github.io/). 
+Hi there 👋! I'm a third-year undergraduate student double majoring in Computer Science and Linguistics with a minor Korean Studies at the University of Maryland. I am fortunate to be advised by [Professor Rachel Rudinger](https://rudinger.github.io/) and [Professor Jordan Boyd-Graber](https://users.umiacs.umd.edu/~ying/). 
 
 I'm a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) lab in [UMIACS](https://www.umiacs.umd.edu/).
 
 My research interests lie in natural language processing, particularly in commonsense reasoning in LLMs and creating new evaluation methods to assess robustness in language and multimodal tasks.
 
-I am concurrently a visiting researcher under Professor Kenny Zhu at the [Arlington Computational Linguistics Lab (ACL2)](https://acllab.uta.edu/) at the University of Texas at Arlington identifying structural similarities to human language and contextual semantics within animal vocalizations to gain insights about the language of animal species. In the future, we hope to create an end-to-end machine translation pipeline for animal vocalizations. This work is graciously supported by the [NSF](https://www.nsf.gov/crssprgm/reu/). 
+I am a member of the technical staff of [Learn Prompting](https://learnprompting.org/), where I work on HackAPrompt, the world's largest red-teaming hackathon, and research on creating trustworhy and robust AI safety judges.
+
+I also am concurrently a visiting researcher under Professor Kenny Zhu at the [Arlington Computational Linguistics Lab (ACL2)](https://acllab.uta.edu/) at the University of Texas at Arlington identifying structural similarities to human language and contextual semantics within animal vocalizations to gain insights about the language of animal species. In the future, we hope to create an end-to-end machine translation pipeline for animal vocalizations. This work is graciously supported by the [NSF](https://www.nsf.gov/crssprgm/reu/). 
 
 I previously worked under Professor Michael Littman at the [Reinforcement Learning & Adaptive Behavior (RLAB)](http://bigai.cs.brown.edu/) group at Brown University on applications of reinforcement learning to 2D non-sequential tasks. We published our findings at [AAAI-22 IMLW](https://sites.google.com/view/aaai22-imlw) and [RLDM-22](https://rldm.org/).
+
+In my freetime, I enjoy [photography](https://www.instagram.com/framedbyatrey/), [reading](https://www.goodreads.com/user/show/72859295-atrey-d), and exploring the city with friends!
